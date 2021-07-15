@@ -2,7 +2,7 @@ from .Variogram import Variogram
 from .DirectionalVariogram import DirectionalVariogram
 from .SpaceTimeVariogram import SpaceTimeVariogram
 from .Kriging import OrdinaryKriging
-from .MetricSpace import MetricSpace, MetricSpacePair, ProbabalisticMetricSpace, RasterEquidistantMetricSpace
+from .MetricSpace import MetricSpace, MetricSpacePair, ProbabalisticMetricSpace, RasterEquidistantMetricSpace, RasterEquidistantMetricSpace2
 from . import interfaces
 from . import data
 from . import util
